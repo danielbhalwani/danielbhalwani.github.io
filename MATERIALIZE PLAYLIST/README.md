@@ -1,3 +1,2 @@
-# materialize-playlist
-All course files for the Materialize CSS playlist on The Net Ninja YouTube channel.
-Make sure you select the correct branch in the top-left, for the code for each lesson :)
+# materialize site
+Here is my Materialize site! It's still a work in progress but Il be sure to add more as I go along.
